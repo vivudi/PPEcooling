@@ -13,6 +13,7 @@ Thiết bị giải nhiệt của nước ngoài
 Cồng kềnh, không thoát được hơi ẩm ra ngoài. 
 Khi nước bay hơi thì sẽ hút nhiệt rất nhanh, nếu không khí bên trong bộ đồ được làm khô thì người mặc sẽ thấy thoải mái hơn rất nhiều.
 Việc làm khô và đối lưu không khí làm cho quá trình bay hơi của mồ hôi dễ dàng hơn, làm hạ nhiệt độ cơ thể.
+Nhiệt hóa hơi của nước là 2,3.106J/kg nên khi bay hơi có thể rút một nhiệt lượng rất nhiều so với tản nhiệt tự nhiên ra không khí.
 
 Giải pháp đề xuất
 1. Quạt đối lưu không khí bên trong bộ đồ
@@ -32,11 +33,17 @@ Thiết bị phụ trợ bổ xung như túi chứa nước mồ hôi, bính kh�
 
 Thiết bị hút ẩm
 1. Hộp hút ẩm
+Rẻ, tiện, có sẵn, tốc độ hút ẩm chậm
 ![humidifierBox](https://github.com/vivudi/PPEcooling/blob/main/Image/03a7e3ecc82e5629c9849f3157ee87e2.jpg)
 2. Máy hút ẩm
 Dùng chu trình Peltier phù hợp với điện áp của sạc dự phòng và gọn nhẹ, tốc độ hút ẩm khá.
 ![Peltier](https://github.com/vivudi/PPEcooling/blob/main/Image/DSCF0346.JPG){:class="img-responsive"}
 3. ...
 
+Thiết bị phụ trợ
+1. Bình khí hóa lỏng nén
+Khí hóa lỏng khi bay hơi vừa có tác dụng làm mát, vừa có tác dụng tạo áp suất dương bên trong bộ đồ, khiến cho đối lưu không khí tốt hơn, virus không lọt vào được. Cần bổ xung vị trí thoát khí hợp lý trên bộ đồ.
+Các loại khí hóa lỏng 
+Tham khảo nguồn https://miennamgas.com/cac-loai-binh-khi-mini-dung-trong-phong-thi-nghiem/
 
 
