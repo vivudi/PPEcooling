@@ -30,6 +30,13 @@ Thiết kế sơ bộ gồm
 Quạt đối lưu và thiết bị hút ẩm
 Thiết bị phụ trợ bổ xung như túi chứa nước mồ hôi, bính khí CO2 hóa lỏng hoặc bất kỳ loại khí nào khó cháy nổ dùng để bơm vào bộ đồ, tạo áp suất dương bên trong bộ đồ.
 
+Thiết bị hút ẩm
+1. Hộp hút ẩm
+![humidifierBox](https://github.com/vivudi/PPEcooling/blob/main/Image/03a7e3ecc82e5629c9849f3157ee87e2.jpg)
+2. Máy hút ẩm
+Dùng chu trình Peltier phù hợp với điện áp của sạc dự phòng và gọn nhẹ, tốc độ hút ẩm khá.
+![Peltier](https://github.com/vivudi/PPEcooling/blob/main/Image/DSCF0346.JPG){:class="img-responsive"}
+3. ...
 
 
 
