@@ -28,10 +28,10 @@ Mục tiêu thiết kế:
 ![PPEcoolingVN](https://github.com/vivudi/PPEcooling/blob/main/Image/PPEcoolVN.jpg)
 
 Thiết kế sơ bộ gồm 
-1 - 3 quạt 5 - 12V BLDC
-2 ống dẫn gió
-Quạt đối lưu và thiết bị hút ẩm
-Thiết bị phụ trợ bổ xung như túi chứa nước mồ hôi, bính khí CO2 hóa lỏng hoặc bất kỳ loại khí nào khó cháy nổ dùng để bơm vào bộ đồ, tạo áp suất dương bên trong bộ đồ.
+1. 1 đến 3 quạt đối lưu 5 - 12V BLDC
+2. 2 ống ruột gà dẫn gió
+3. thiết bị hút ẩm
+4. Thiết bị phụ trợ bổ xung như túi chứa nước mồ hôi, bính khí CO2 hóa lỏng hoặc bất kỳ loại khí nào khó cháy nổ dùng để bơm vào bộ đồ, tạo áp suất dương bên trong bộ đồ.
 
 Thiết bị hút ẩm
 1. Hộp hút ẩm
