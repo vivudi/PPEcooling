@@ -1,7 +1,7 @@
 Hiện trạng
 
 Các nguồn giải nhiệt của cơ thể
-
+https://github.com/vivudi/PPEcooling/blob/main/Old/Balancing-protection-and-heat-strain-Typical-non-protective-clothing-allows-for.png?raw=true
 Hướng dẫn của nước ngoài
 
 
