@@ -19,11 +19,13 @@ Giải pháp đề xuất
 1. Quạt đối lưu không khí bên trong bộ đồ
 2. Rút hơi ẩm ra nhiều nhất có thể
 3. Làm lạnh cưỡng bức bằng nước, đá khô, khí hóa lỏng...\
-![PPEcoolingVN](https://github.com/vivudi/PPEcooling/blob/main/Image/PPEcoolVN.jpg)
+
 Mục tiêu thiết kế:
 1. Thiết bị quạt đối lưu không khí, hút ẩm, giải nhiệt cho PPE
 2. Thiết bị sẵn có, dễ chế tạo
 3. Dùng nguồn 5V (hoặc 9V QC2.0, QC3.0) sẵn có từ sạc dự phòng
+
+![PPEcoolingVN](https://github.com/vivudi/PPEcooling/blob/main/Image/PPEcoolVN.jpg)
 
 Thiết kế sơ bộ gồm 
 1 - 3 quạt 5 - 12V BLDC
@@ -35,6 +37,7 @@ Thiết bị hút ẩm
 1. Hộp hút ẩm
 Rẻ, tiện, có sẵn, tốc độ hút ẩm chậm
 ![humidifierBox](https://github.com/vivudi/PPEcooling/blob/main/Image/03a7e3ecc82e5629c9849f3157ee87e2.jpg)
+
 2. Máy hút ẩm
 Dùng chu trình Peltier phù hợp với điện áp của sạc dự phòng và gọn nhẹ, tốc độ hút ẩm khá.
 ![Peltier](https://github.com/vivudi/PPEcooling/blob/main/Image/DSCF0346.JPG){:class="img-responsive"}
